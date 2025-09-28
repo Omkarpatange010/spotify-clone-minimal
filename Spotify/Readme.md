@@ -37,7 +37,7 @@ spotify-clone-minimal/
 ├─ client/<br>
 │  ├─ package.json<br>
 │  ├─ index.html<br>
-│  └─ src/
+│  └─ src/<br>
 │     ├─ index.jsx<br>
 │     ├─ App.jsx<br>
 │     └─ Player.jsx<br>
