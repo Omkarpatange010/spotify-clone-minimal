@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "title": "Sample Track 1",
+    "artist": "Demo Artist",
+    "album": "Demo Album",
+    "duration_ms": 120000,
+    "file": "sample1.mp3",
+    "cover": ""
+  }
+]
