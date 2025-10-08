@@ -173,7 +173,7 @@ Designed and deployed a scalable, secure, and highly available application using
 
 ![Design](img/10.png)
 
-## Alternative: More Subnets
+### Alternative: More Subnets
 
 If you prefer 3 AZs, or you want more separation (e.g. separate “web” vs “app” vs “API”), you could have 3 public subnets, 3 app subnets, 3 DB subnets, etc.
 
