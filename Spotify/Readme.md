@@ -1,6 +1,6 @@
 # Spotify-clone-minimal
 
-A minimal full-stack demo of a Spotify-style music app. This repository provides a simple backend that streams audio files with support for range requests, and a React frontend that fetches track metadata and plays audio (with play / pause / seek / volume). It’s intended as a learning / starter project, not a production music streaming service.
+A minimal full-stack demo of a Spotify-style music app. This repository provides a simple backend that streams audio files with support for range requests, and a React frontend that fetches track metadata and plays audio (with play / pause / seek / volume). It’s intended as a learning / starter project, not a production music streaming service..
 
 ---
 
